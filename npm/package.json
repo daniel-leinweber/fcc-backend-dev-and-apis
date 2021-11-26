@@ -1,0 +1,23 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Daniel Leinweber",
+	"description": "Learning how to manage packages with Npm on freecodecamp.org",
+	"keywords": [
+		"npm",
+		"learning",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/daniel-leinweber/fcc-backend-dev-and-apis.git"
+	}
+}
